@@ -1,2 +1,8 @@
-# Boston_Children-s_Hospital
-Code for automating the interpreters' system at BCH
+# WHAT I LEARNED IN THIS PROJECT
+
+- Python Json
+- Webhooks and APIs
+
+This project was a good practice on:
+- re library
+- I/O reading
