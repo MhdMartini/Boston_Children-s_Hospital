@@ -5,7 +5,6 @@
 import re
 import requests
 import json
-import pandas as pd
 
 # Parse the text file into key, value pairs.
 def parse(line):
